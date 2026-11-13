@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre Barbé</h1>
 <h3 align="center">A passionate developer from Montreal</h3>
 
-- 🔭 I’m currently working on [FinanceFlow](https://github.com/pierrebre/financeflow)
+- 🔭 I’m currently working on [Belotik](https://belotik.com)
 
 - 📫 How to reach me **pierrebarbe0@gmail.com**
 
